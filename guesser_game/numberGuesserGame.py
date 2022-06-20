@@ -1,7 +1,7 @@
 from random import randrange
-from .GuessGame import Guesser
+from .GuesserGame import Guesser
 
-class GuesstheNumber(Guesser):
+class GuessMyNumber(Guesser):
 
     """ GuessMyNumber class for calculating the result of arithmetic operations applied to an unknow number
     given by the player
